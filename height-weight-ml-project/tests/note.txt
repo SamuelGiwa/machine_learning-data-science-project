@@ -1,0 +1,8 @@
+to run; use  pytest tests/
+
+add pytest.ini for cleaner input
+
+# pytest.ini
+[pytest]
+addopts = -v
+testpaths = tests
