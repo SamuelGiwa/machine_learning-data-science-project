@@ -1,0 +1,4 @@
+I developed and deployed a Breast Cancer Classification web app using PyTorch and Streamlit. 
+The model predicts whether a tumor is malignant or benign based on diagnostic features.
+I implemented data preprocessing, model training, evaluation, and visualization; all integrated into 
+an interactive interface.
